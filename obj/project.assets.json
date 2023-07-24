@@ -6917,11 +6917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Models\\DaPe.Models.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj",
       "projectName": "DaPe.Models",
-      "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Models\\DaPe.Models.csproj",
+      "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj",
       "packagesPath": "C:\\Users\\daniel.petrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Models\\obj\\",
+      "outputPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
