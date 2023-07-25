@@ -36,3 +36,16 @@ C:\Users\daniel.petrik\source\repos\UdemyAspNetCoreMVC\DaPe.Models\obj\Debug\net
 C:\Users\daniel.petrik\source\repos\UdemyAspNetCoreMVC\DaPe.Models\obj\Debug\net8.0\refint\DaPe.Models.dll
 C:\Users\daniel.petrik\source\repos\UdemyAspNetCoreMVC\DaPe.Models\obj\Debug\net8.0\DaPe.Models.pdb
 C:\Users\daniel.petrik\source\repos\UdemyAspNetCoreMVC\DaPe.Models\obj\Debug\net8.0\ref\DaPe.Models.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\bin\Debug\net8.0\DaPe.Models.deps.json
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\bin\Debug\net8.0\DaPe.Models.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\bin\Debug\net8.0\DaPe.Models.pdb
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.csproj.AssemblyReference.cache
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.AssemblyInfoInputs.cache
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.AssemblyInfo.cs
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.csproj.CoreCompileInputs.cache
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.sourcelink.json
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\refint\DaPe.Models.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\DaPe.Models.pdb
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Models\obj\Debug\net8.0\ref\DaPe.Models.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj": {}
+    "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.Models\\DaPe.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj": {
+    "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.Models\\DaPe.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj",
+        "projectUniqueName": "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.Models\\DaPe.Models.csproj",
         "projectName": "DaPe.Models",
-        "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj",
+        "projectPath": "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.Models\\DaPe.Models.csproj",
         "packagesPath": "C:\\Users\\daniel.petrik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\obj\\",
+        "outputPath": "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

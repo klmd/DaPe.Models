@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "apRyjXksfrfEdkWYGbxfBcAW5MdcXSISfd0bIBoCWzwhtXPUciKtC+myX4xMIXoI/O+SsQ9VGjerlMjY2VNOkA==",
+  "dgSpecHash": "+bXOKacdm5mN0Mx/IEwMd6Iz8vNQFDmHDZRH5YlaQ4KgrVAbeuZoIuWSHex4mDqK7gud/t9R1jkJNtFDZ2glKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj",
+  "projectFilePath": "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.Models\\DaPe.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.petrik\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\daniel.petrik\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
